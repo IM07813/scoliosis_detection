@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless # cv2
+Pillow # PIL
+tensorflow
+customtkinter
+scikit-learn # sklearn
+matplotlib
+
